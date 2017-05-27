@@ -45,7 +45,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="App-title">Music Master</div>
+        <div className="App-title">Music Master by Jack Tran</div>
         <FormGroup>
           <InputGroup>
             <FormControl type="text" placeholder="Search an artist..."
