@@ -1,5 +1,7 @@
-import Footer from './Footer'
+import Gallery from './Gallery'
+import Profile from './Profile'
 
 export {
-  Footer
+  Gallery,
+  Profile
 }
